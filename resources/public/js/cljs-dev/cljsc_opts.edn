@@ -1,1 +1,0 @@
-{:optimizations :none, :output-to "resources/public/js/dev.js", :output-dir "resources/public/js/cljs-dev", :pretty-print true, :source-map true, :source-map-timestamp true, :preloads [figwheel.preload], :external-config #:figwheel{:config {:build-id "dev", :websocket-url "ws://localhost:3449/figwheel-ws"}}}
